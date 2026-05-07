@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0F766E,100:38BDF8&text=N%C3%BAcleo%20Digital%20Mendon%C3%A7a%20Galv%C3%A3o&fontColor=F8FAFC&fontSize=38&fontAlignY=38&desc=Software%2C%20IA%2C%20automa%C3%A7%C3%A3o%20e%20experi%C3%AAncia%20digital%20para%20opera%C3%A7%C3%B5es%20cr%C3%ADticas&descAlignY=58&descSize=15&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0F766E,100:38BDF8&text=N%C3%BAcleo%20Digital%20Mendon%C3%A7a%20Galv%C3%A3o&fontColor=F8FAFC&fontSize=38&fontAlignY=38&desc=Software%20%7C%20IA%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Dados%20%7C%20Experi%C3%AAncia%20Digital&descAlignY=58&descSize=15&animation=fadeIn"
     alt="Núcleo Digital Mendonça Galvão"
     width="100%"
   />
@@ -13,17 +13,17 @@
 <p align="center">
   <a href="https://github.com/ndmg-dev">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=900&color=67E8F9&center=true&vCenter=true&width=920&lines=Transformamos+rotinas+complexas+em+produtos+digitais.;IA%2C+automa%C3%A7%C3%A3o%2C+dados+e+UX+para+opera%C3%A7%C3%B5es+reais.;Solu%C3%A7%C3%B5es+fiscais%2C+cont%C3%A1beis%2C+jur%C3%ADdicas+e+corporativas.;Software+com+precis%C3%A3o%2C+rastreabilidade+e+escala."
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=900&color=67E8F9&center=true&vCenter=true&width=950&lines=Transformamos+opera%C3%A7%C3%B5es+complexas+em+produtos+digitais.;IA%2C+automa%C3%A7%C3%A3o%2C+dados+e+UX+para+ambientes+cr%C3%ADticos.;Solu%C3%A7%C3%B5es+fiscais%2C+cont%C3%A1beis%2C+jur%C3%ADdicas+e+corporativas.;Software+com+precis%C3%A3o%2C+rastreabilidade+e+escala."
       alt="Animação textual Núcleo Digital"
     />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IA--first-020617?style=for-the-badge&labelColor=020617&color=67E8F9" alt="IA-first" />
+  <img src="https://img.shields.io/badge/IA--First-020617?style=for-the-badge&labelColor=020617&color=67E8F9" alt="IA First" />
   <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20Fiscal-020617?style=for-the-badge&labelColor=020617&color=14B8A6" alt="Automação Fiscal" />
   <img src="https://img.shields.io/badge/LegalTech-020617?style=for-the-badge&labelColor=020617&color=A78BFA" alt="LegalTech" />
-  <img src="https://img.shields.io/badge/SaaS%20Multi--tenant-020617?style=for-the-badge&labelColor=020617&color=FBBF24" alt="SaaS Multi-tenant" />
+  <img src="https://img.shields.io/badge/SaaS%20Multi--Tenant-020617?style=for-the-badge&labelColor=020617&color=FBBF24" alt="SaaS Multi-Tenant" />
   <img src="https://img.shields.io/badge/RPA%20%2B%20APIs-020617?style=for-the-badge&labelColor=020617&color=22C55E" alt="RPA e APIs" />
 </p>
 
@@ -36,7 +36,7 @@
   ·
   <a href="#produtos">Produtos</a>
   ·
-  <a href="#graficos">Gráficos</a>
+  <a href="#analytics">Analytics</a>
   ·
   <a href="#pulso">Pulso</a>
   ·
@@ -54,7 +54,7 @@
 
 Somos o braço de tecnologia da **Mendonça Galvão**, criado para transformar conhecimento contábil, fiscal, societário, jurídico e operacional em **plataformas digitais de alta precisão**.
 
-Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que reduzem retrabalho, organizam dados, aceleram decisões, diminuem risco e tornam rotinas complexas mais previsíveis, auditáveis e escaláveis.
+Não entregamos apenas software. Entregamos **infraestrutura operacional inteligente**: sistemas que reduzem retrabalho, aceleram decisões, organizam fluxos, diminuem risco e tornam operações complexas mais previsíveis, auditáveis e escaláveis.
 
 > **Onde existe processo crítico, nós codificamos inteligência, automação e experiência.**
 
@@ -79,7 +79,7 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
         <img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="21" alt="Ícone cpu" />
         Inteligência
       </h3>
-      <p>IA aplicada com contexto, limites, revisão humana e conexão direta com o vocabulário do negócio.</p>
+      <p>IA aplicada com contexto, supervisão, rastreabilidade e aderência ao vocabulário do negócio.</p>
     </td>
   </tr>
 </table>
@@ -98,11 +98,11 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
         <img src="https://api.iconify.design/feather:cpu.svg?color=%2367E8F9" width="21" alt="Ícone cpu" />
         IA aplicada ao negócio
       </h3>
-      <p>Copilotos, agentes, análise documental, classificação semântica, geração assistida de relatórios, RAG, pipelines RAG-Free e automações com modelos de linguagem.</p>
+      <p>Copilotos, agentes, análise documental, classificação semântica, geração assistida de relatórios, RAG, automações inteligentes e apoio à decisão.</p>
     </td>
     <td width="50%">
       <h3>
-        <img src="https://api.iconify.design/feather:file-text.svg?color=%23FBBF24" width="21" alt="Ícone file text" />
+        <img src="https://api.iconify.design/feather:file-text.svg?color=%23FBBF24" width="21" alt="Ícone file-text" />
         Fiscal e tributário
       </h3>
       <p>Motores para ICMS, ST, Fronteira, precificação tributária, ingestão de XML e ZIP de NF-e, auditoria de cálculo e relatórios rastreáveis.</p>
@@ -114,14 +114,14 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
         <img src="https://api.iconify.design/feather:briefcase.svg?color=%23A78BFA" width="21" alt="Ícone briefcase" />
         Jurídico e societário
       </h3>
-      <p>Análise inteligente de contratos, revisão de cláusulas, automação de documentos, abertura de empresas, exportações e fluxos de assinatura.</p>
+      <p>Análise contratual, revisão de cláusulas, automação documental, abertura de empresas, exportações e fluxos digitais de assinatura.</p>
     </td>
     <td width="50%">
       <h3>
         <img src="https://api.iconify.design/feather:grid.svg?color=%2322C55E" width="21" alt="Ícone grid" />
         Plataformas corporativas
       </h3>
-      <p>Portais internos, dashboards, RBAC, workflows, integrações com GitHub, Google, Supabase, APIs transacionais e mensageria omnichannel.</p>
+      <p>Portais internos, dashboards, RBAC, workflows, integrações com GitHub, Google, Supabase e APIs orientadas à operação.</p>
     </td>
   </tr>
 </table>
@@ -147,28 +147,28 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
       <img src="https://api.iconify.design/feather:monitor.svg?color=%2367E8F9" width="18" alt="Ícone monitor" />
       <strong>Frontend</strong>
     </td>
-    <td>React, Vite, TypeScript, Tailwind CSS, HTML5, CSS3, JavaScript, Jinja2, design responsivo, dark mode, glassmorphism e dashboards orientados a KPI.</td>
+    <td>React, Vite, TypeScript, Tailwind CSS, HTML5, CSS3, JavaScript, Jinja2, design responsivo, dark mode e dashboards orientados a KPI.</td>
   </tr>
   <tr>
     <td>
       <img src="https://api.iconify.design/feather:server.svg?color=%2314B8A6" width="18" alt="Ícone server" />
       <strong>Backend</strong>
     </td>
-    <td>Python, FastAPI, Flask, Django, Uvicorn, SQLAlchemy, Alembic, Pydantic, APIs REST, arquitetura modular e validação forte de dados.</td>
+    <td>Python, FastAPI, Flask, Django, Uvicorn, SQLAlchemy, Alembic, Pydantic, APIs REST e arquitetura modular.</td>
   </tr>
   <tr>
     <td>
       <img src="https://api.iconify.design/feather:database.svg?color=%23FBBF24" width="18" alt="Ícone database" />
       <strong>Dados e autenticação</strong>
     </td>
-    <td>Supabase, PostgreSQL, Row Level Security, Storage, JWT, OAuth, Firebase Auth, Firebase Storage, SQLite local e isolamento multiempresa.</td>
+    <td>Supabase, PostgreSQL, Row Level Security, Storage, JWT, OAuth, Firebase Auth, Firebase Storage e isolamento multiempresa.</td>
   </tr>
   <tr>
     <td>
       <img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="18" alt="Ícone cpu" />
       <strong>Inteligência artificial</strong>
     </td>
-    <td>OpenAI, LangChain, LangGraph, RAG, RAG-Free, tool-calling, parsing documental, classificação, sumarização e copilotos especializados.</td>
+    <td>OpenAI, LangChain, LangGraph, RAG, tool-calling, parsing documental, classificação, sumarização e copilotos especializados.</td>
   </tr>
   <tr>
     <td>
@@ -182,7 +182,7 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
       <img src="https://api.iconify.design/feather:cloud.svg?color=%2360A5FA" width="18" alt="Ícone cloud" />
       <strong>DevOps</strong>
     </td>
-    <td>Docker, Docker Compose, GitHub Actions, Railway, Vercel, NGINX, ambientes versionados, CI/CD e deploys reproduzíveis.</td>
+    <td>Docker, Docker Compose, GitHub Actions, Railway, Vercel, NGINX, CI/CD e deploys reproduzíveis.</td>
   </tr>
 </table>
 
@@ -213,7 +213,7 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
     <td width="50%">
       <h3>
         <a href="https://github.com/ndmg-dev/CLAUSULA_AI">
-          <img src="https://api.iconify.design/feather:file-text.svg?color=%2367E8F9" width="21" alt="Ícone file text" />
+          <img src="https://api.iconify.design/feather:file-text.svg?color=%2367E8F9" width="21" alt="Ícone file-text" />
           CLAUSULA_AI
         </a>
       </h3>
@@ -254,7 +254,7 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
     <td width="50%">
       <h3>
         <a href="https://github.com/ndmg-dev/ContAI_PRO">
-          <img src="https://api.iconify.design/feather:bar-chart-2.svg?color=%23FBBF24" width="21" alt="Ícone bar chart" />
+          <img src="https://api.iconify.design/feather:bar-chart-2.svg?color=%23FBBF24" width="21" alt="Ícone bar-chart-2" />
           ContAI_PRO
         </a>
       </h3>
@@ -298,7 +298,7 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
 <details>
   <summary>
     <strong>
-      <img src="https://api.iconify.design/feather:plus-circle.svg?color=%2367E8F9" width="18" alt="Ícone plus circle" />
+      <img src="https://api.iconify.design/feather:plus-circle.svg?color=%2367E8F9" width="18" alt="Ícone plus-circle" />
       Ver outras frentes de desenvolvimento
     </strong>
   </summary>
@@ -316,54 +316,24 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
 
 ---
 
-<h2 id="graficos">
-  <img src="https://api.iconify.design/feather:bar-chart-2.svg?color=%2367E8F9" width="25" alt="Ícone bar chart" />
-  Gráficos
+<h2 id="analytics">
+  <img src="https://api.iconify.design/feather:bar-chart-2.svg?color=%2367E8F9" width="25" alt="Ícone analytics" />
+  GitHub Analytics
 </h2>
 
-<h3>
-  <img src="https://api.iconify.design/feather:pie-chart.svg?color=%23FBBF24" width="22" alt="Ícone pie chart" />
-  Composição tecnológica
-</h3>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndmg-dev&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndmg-dev&theme=tokyonight" alt="Top Languages by Repo" />
+</p>
 
-```mermaid
-pie showData
-  title Stack dominante nos produtos do Núcleo Digital
-  "Python / Backends / Automação" : 38
-  "TypeScript / React / Interfaces" : 27
-  "Dados / Supabase / PostgreSQL" : 16
-  "IA / LangChain / OpenAI" : 13
-  "DevOps / Docker / CI-CD" : 6
-```
+<p align="center">
+  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndmg-dev&theme=tokyonight" alt="Profile Details" />
+</p>
 
-<h3>
-  <img src="https://api.iconify.design/feather:trending-up.svg?color=%2322C55E" width="22" alt="Ícone trending up" />
-  Intensidade por frente de engenharia
-</h3>
-
-```mermaid
-xychart-beta
-  title "Radar de execução"
-  x-axis ["Frontend", "Backend", "IA", "Fiscal", "Automação", "DevOps"]
-  y-axis "Maturidade operacional" 0 --> 100
-  bar [88, 94, 91, 96, 90, 84]
-  line [86, 92, 93, 95, 88, 86]
-```
-
-<h3>
-  <img src="https://api.iconify.design/feather:target.svg?color=%23A78BFA" width="22" alt="Ícone target" />
-  Distribuição de valor
-</h3>
-
-```mermaid
-pie showData
-  title Onde nossos produtos geram impacto
-  "Redução de retrabalho" : 30
-  "Governança e rastreabilidade" : 24
-  "Velocidade operacional" : 22
-  "Inteligência aplicada" : 16
-  "Experiência do usuário" : 8
-```
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndmg-dev&theme=tokyonight" alt="Top Languages by Commit" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndmg-dev&theme=tokyonight&utcOffset=-3" alt="Commits by Hour" />
+</p>
 
 ---
 
@@ -382,85 +352,57 @@ pie showData
 
 <table>
   <tr>
-    <td width="34%">
+    <td width="33%">
       <h3>
-        <img src="https://api.iconify.design/feather:code.svg?color=%2367E8F9" width="21" alt="Ícone code" />
-        Linguagens em evidência
+        <img src="https://api.iconify.design/feather:monitor.svg?color=%2367E8F9" width="21" alt="Ícone monitor" />
+        Interfaces & dashboards
       </h3>
-      <p><code>TypeScript</code> <code>Python</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
-      <p>Stack híbrida para criar produtos completos: interface, API, automação, IA, dados e deploy.</p>
+      <p>React, Vite, Tailwind, dark mode, UX operacional e visualização de indicadores com foco em clareza e agilidade.</p>
     </td>
     <td width="33%">
       <h3>
-        <img src="https://api.iconify.design/feather:git-branch.svg?color=%23FBBF24" width="21" alt="Ícone git branch" />
-        Ritmo de produto
+        <img src="https://api.iconify.design/feather:server.svg?color=%2314B8A6" width="21" alt="Ícone server" />
+        APIs & backends
       </h3>
-      <p><code>Discovery</code> <code>MVP</code> <code>Iteração</code> <code>Deploy</code> <code>Escala</code></p>
-      <p>Projetos nascem conectados a dores reais e evoluem com uso, dados, feedback e automação.</p>
+      <p>FastAPI, Flask e Django compondo serviços modulares, integrações robustas e fluxos orientados por regra de negócio.</p>
     </td>
     <td width="33%">
       <h3>
-        <img src="https://api.iconify.design/feather:shield.svg?color=%2322C55E" width="21" alt="Ícone shield" />
-        Engenharia aplicada
+        <img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="21" alt="Ícone cpu" />
+        IA & automação
       </h3>
-      <p><code>RBAC</code> <code>RLS</code> <code>CI/CD</code> <code>Logs</code> <code>APIs</code></p>
-      <p>Governança, rastreabilidade e arquitetura modular desde a primeira versão funcional.</p>
+      <p>Copilotos, agentes, RAG, análise documental, classificação semântica e automações conectadas à rotina real.</p>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <th align="left">Frente</th>
-    <th align="left">Intensidade</th>
-    <th align="left">Foco</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://api.iconify.design/feather:monitor.svg?color=%2367E8F9" width="18" alt="Ícone monitor" />
-      Interfaces e dashboards
+    <td width="33%">
+      <h3>
+        <img src="https://api.iconify.design/feather:file-text.svg?color=%23FBBF24" width="21" alt="Ícone file-text" />
+        Fiscal, contábil & jurídico
+      </h3>
+      <p>Motores de regra, auditoria, documentos, cálculos, relatórios e rastreabilidade para decisões com segurança.</p>
     </td>
-    <td><code>████████████░░</code></td>
-    <td>React, Vite, Tailwind, dark mode, UX operacional e visualização de indicadores.</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://api.iconify.design/feather:server.svg?color=%2314B8A6" width="18" alt="Ícone server" />
-      APIs e backends
+    <td width="33%">
+      <h3>
+        <img src="https://api.iconify.design/feather:database.svg?color=%2322C55E" width="21" alt="Ícone database" />
+        Dados & autenticação
+      </h3>
+      <p>Supabase, PostgreSQL, RLS, JWT, OAuth e arquitetura preparada para multiempresa, permissões e governança.</p>
     </td>
-    <td><code>█████████████░</code></td>
-    <td>FastAPI, Flask, Django, validação forte, serviços modulares e integrações.</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="18" alt="Ícone cpu" />
-      IA e automação
+    <td width="33%">
+      <h3>
+        <img src="https://api.iconify.design/feather:cloud.svg?color=%2360A5FA" width="21" alt="Ícone cloud" />
+        Deploy & operação
+      </h3>
+      <p>Docker, GitHub Actions, Railway, Vercel e NGINX para ambientes reproduzíveis, rollout contínuo e estabilidade.</p>
     </td>
-    <td><code>████████████░░</code></td>
-    <td>Copilotos, agentes, RAG, análise documental, classificação e geração assistida.</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://api.iconify.design/feather:file-text.svg?color=%23FBBF24" width="18" alt="Ícone file text" />
-      Fiscal, contábil e jurídico
-    </td>
-    <td><code>█████████████░</code></td>
-    <td>Motores de regra, auditoria, documentos, cálculos, relatórios e rastreabilidade.</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://api.iconify.design/feather:cloud.svg?color=%2360A5FA" width="18" alt="Ícone cloud" />
-      Deploy e operação
-    </td>
-    <td><code>███████████░░░</code></td>
-    <td>Docker, GitHub Actions, Railway, Vercel, NGINX e ambientes reproduzíveis.</td>
   </tr>
 </table>
 
 ---
 
 <h2 id="qualidade">
-  <img src="https://api.iconify.design/feather:check-circle.svg?color=%2322C55E" width="25" alt="Ícone check circle" />
+  <img src="https://api.iconify.design/feather:check-circle.svg?color=%2322C55E" width="25" alt="Ícone check-circle" />
   Padrão de qualidade
 </h2>
 
@@ -481,7 +423,7 @@ pie showData
         Precisão onde importa
       </h3>
     </td>
-    <td>Em cálculo fiscal e financeiro, priorizamos motores determinísticos, trilhas de auditoria e testes de fidelidade.</td>
+    <td>Em cálculo fiscal e financeiro, priorizamos motores determinísticos, trilhas de auditoria e fidelidade de regra.</td>
   </tr>
   <tr>
     <td>
@@ -504,7 +446,7 @@ pie showData
   <tr>
     <td>
       <h3>
-        <img src="https://api.iconify.design/feather:figma.svg?color=%2360A5FA" width="21" alt="Ícone figma" />
+        <img src="https://api.iconify.design/feather:edit-3.svg?color=%2360A5FA" width="21" alt="Ícone edit-3" />
         UX com refinamento
       </h3>
     </td>
