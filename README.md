@@ -1,16 +1,6 @@
-<!--
-README de perfil da organização GitHub: ndmg-dev
-
-Estrutura recomendada:
-.
-├── README.md
-└── assets/
-    └── logo-ndmg.png
--->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0F766E,100:38BDF8&text=N%C3%BAcleo%20Digital%20Mendon%C3%A7a%20Galv%C3%A3o&fontColor=F8FAFC&fontSize=38&fontAlignY=38&desc=Software%2C%20IA%2C%20automa%C3%A7%C3%A3o%20e%20experi%C3%AAncia%20digital%20para%20opera%C3%A7%C3%B5es%20cr%C3%ADticas&descAlignY=58&descSize=15&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0F766E,100:38BDF8&text=N%C3%BAcleo%20Digital%20Mendon%C3%A7a%20Galv%C3%A3o&fontColor=F8FAFC&fontSize=38&fontAlignY=38&desc=Software%2C%20IA%2C%20automa%C3%A7%C3%A3o%20e%20experi%C3%AAncia%20digital%20para%20opera%C3%A7%C3%B5es%20cr%C3%ADticas&descAlignY=58&descSize=15&animation=fadeIn"
     alt="Núcleo Digital Mendonça Galvão"
     width="100%"
   />
@@ -46,11 +36,13 @@ Estrutura recomendada:
   ·
   <a href="#produtos">Produtos</a>
   ·
+  <a href="#graficos">Gráficos</a>
+  ·
   <a href="#pulso">Pulso</a>
   ·
-  <a href="#arquitetura">Arquitetura</a>
-  ·
   <a href="#qualidade">Qualidade</a>
+  ·
+  <a href="#conexao">Conexão</a>
 </p>
 
 ---
@@ -324,10 +316,69 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
 
 ---
 
+<h2 id="graficos">
+  <img src="https://api.iconify.design/feather:bar-chart-2.svg?color=%2367E8F9" width="25" alt="Ícone bar chart" />
+  Gráficos
+</h2>
+
+<h3>
+  <img src="https://api.iconify.design/feather:pie-chart.svg?color=%23FBBF24" width="22" alt="Ícone pie chart" />
+  Composição tecnológica
+</h3>
+
+```mermaid
+pie showData
+  title Stack dominante nos produtos do Núcleo Digital
+  "Python / Backends / Automação" : 38
+  "TypeScript / React / Interfaces" : 27
+  "Dados / Supabase / PostgreSQL" : 16
+  "IA / LangChain / OpenAI" : 13
+  "DevOps / Docker / CI-CD" : 6
+```
+
+<h3>
+  <img src="https://api.iconify.design/feather:trending-up.svg?color=%2322C55E" width="22" alt="Ícone trending up" />
+  Intensidade por frente de engenharia
+</h3>
+
+```mermaid
+xychart-beta
+  title "Radar de execução"
+  x-axis ["Frontend", "Backend", "IA", "Fiscal", "Automação", "DevOps"]
+  y-axis "Maturidade operacional" 0 --> 100
+  bar [88, 94, 91, 96, 90, 84]
+  line [86, 92, 93, 95, 88, 86]
+```
+
+<h3>
+  <img src="https://api.iconify.design/feather:target.svg?color=%23A78BFA" width="22" alt="Ícone target" />
+  Distribuição de valor
+</h3>
+
+```mermaid
+pie showData
+  title Onde nossos produtos geram impacto
+  "Redução de retrabalho" : 30
+  "Governança e rastreabilidade" : 24
+  "Velocidade operacional" : 22
+  "Inteligência aplicada" : 16
+  "Experiência do usuário" : 8
+```
+
+---
+
 <h2 id="pulso">
   <img src="https://api.iconify.design/feather:activity.svg?color=%2367E8F9" width="25" alt="Ícone activity" />
   Pulso do desenvolvimento
 </h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ndmg-dev/ndmg-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ndmg-dev/ndmg-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação de contribuições do Núcleo Digital" src="https://raw.githubusercontent.com/ndmg-dev/ndmg-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <table>
   <tr>
@@ -361,7 +412,7 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
 <table>
   <tr>
     <th align="left">Frente</th>
-    <th align="left">Intensidade visual</th>
+    <th align="left">Intensidade</th>
     <th align="left">Foco</th>
   </tr>
   <tr>
@@ -405,42 +456,6 @@ Não entregamos apenas telas. Entregamos **produtos operacionais**: sistemas que
     <td>Docker, GitHub Actions, Railway, Vercel, NGINX e ambientes reproduzíveis.</td>
   </tr>
 </table>
-
----
-
-<h2 id="arquitetura">
-  <img src="https://api.iconify.design/feather:share-2.svg?color=%2314B8A6" width="25" alt="Ícone share" />
-  Arquitetura mental
-</h2>
-
-```mermaid
-flowchart LR
-  A["Rotinas críticas<br/>contábil • fiscal • jurídico • operações"] --> B["Leitura de processo<br/>dor, regra, exceção, risco"]
-  B --> C["Produto digital<br/>SaaS • portal • dashboard • API"]
-  C --> D["Camada inteligente<br/>IA • agentes • RAG • classificação"]
-  C --> E["Camada determinística<br/>cálculo • validação • auditoria • logs"]
-  D --> F["Integrações<br/>Supabase • OpenAI • Google • GitHub • SEFAZ • Brevo"]
-  E --> F
-  F --> G["Resultado operacional<br/>menos retrabalho • mais controle • mais escala"]
-```
-
-<h3>
-  <img src="https://api.iconify.design/feather:bar-chart-2.svg?color=%23FBBF24" width="22" alt="Ícone bar chart" />
-  Gráfico de valor
-</h3>
-
-```mermaid
-flowchart TD
-  A["Conhecimento técnico"] --> B["Modelagem de regra"]
-  B --> C["Automação confiável"]
-  C --> D["Interface premium"]
-  D --> E["Dados rastreáveis"]
-  E --> F["Decisão mais rápida"]
-
-  A --> G["Vantagem competitiva"]
-  C --> G
-  F --> G
-```
 
 ---
 
@@ -499,29 +514,6 @@ flowchart TD
 
 ---
 
-<h2 id="entrega">
-  <img src="https://api.iconify.design/feather:navigation.svg?color=%2367E8F9" width="25" alt="Ícone navigation" />
-  Como uma dor vira produto
-</h2>
-
-```mermaid
-flowchart LR
-  A["Diagnóstico"] --> B["Blueprint"]
-  B --> C["MVP funcional"]
-  C --> D["Inteligência e automação"]
-  D --> E["Deploy e governança"]
-  E --> F["Evolução contínua"]
-
-  A -.-> A1["gargalos • risco • retrabalho"]
-  B -.-> B1["dados • regras • integrações"]
-  C -.-> C1["uso real • feedback • métricas"]
-  D -.-> D1["IA • RPA • motores de cálculo"]
-  E -.-> E1["CI/CD • logs • permissões"]
-  F -.-> F1["escala • performance • produto"]
-```
-
----
-
 <h2 id="diferenciais">
   <img src="https://api.iconify.design/feather:star.svg?color=%23FBBF24" width="25" alt="Ícone star" />
   Diferenciais
@@ -562,74 +554,6 @@ flowchart LR
 
 ---
 
-<h2 id="automacoes-visuais">
-  <img src="https://api.iconify.design/feather:play-circle.svg?color=%23A78BFA" width="25" alt="Ícone play circle" />
-  Animações e acabamento visual
-</h2>
-
-Este perfil usa animação de abertura, badges visuais, diagramas Mermaid e componentes HTML estáveis para evitar cards externos quebrados em seções críticas.
-
-<details>
-  <summary>
-    <strong>
-      <img src="https://api.iconify.design/feather:settings.svg?color=%2367E8F9" width="18" alt="Ícone settings" />
-      Workflow opcional para animação de contribuições
-    </strong>
-  </summary>
-
-<br />
-
-Crie o arquivo `.github/workflows/snake.yml` no repositório de perfil `ndmg-dev/ndmg-dev`:
-
-```yaml
-name: Generate contribution snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ndmg-dev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish animation
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Depois que o workflow gerar os arquivos, adicione o bloco abaixo onde desejar exibir a animação:
-
-```html
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ndmg-dev/ndmg-dev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ndmg-dev/ndmg-dev/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação de contribuições" src="https://raw.githubusercontent.com/ndmg-dev/ndmg-dev/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-```
-
-</details>
-
----
-
 <h2 id="posicionamento">
   <img src="https://api.iconify.design/feather:compass.svg?color=%2314B8A6" width="25" alt="Ícone compass" />
   Posicionamento
@@ -643,7 +567,7 @@ Cada solução nasce conectada ao processo real, ao vocabulário do negócio e �
 
 ---
 
-<h2 id="contato">
+<h2 id="conexao">
   <img src="https://api.iconify.design/feather:send.svg?color=%2367E8F9" width="25" alt="Ícone send" />
   Conexão
 </h2>
